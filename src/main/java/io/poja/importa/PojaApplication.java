@@ -1,4 +1,4 @@
-package io.poja.app;
+package io.poja.importa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

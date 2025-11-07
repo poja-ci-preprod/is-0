@@ -1,4 +1,4 @@
-package io.poja.app;
+package io.poja.importa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
