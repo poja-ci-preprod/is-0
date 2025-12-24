@@ -1,0 +1,21 @@
+plugins{
+id 'java'
+}
+
+java{
+group = 'io.poja.importa'
+sourceCompatibility = '17'
+targetCompatibility = '17'
+}
+
+repositories{
+
+}
+
+dependencies{
+implementation 'org.springframework.boot:spring-boot-starter-web'
+implementation 'org.projectlombok:lombok'
+testImplementation 'org.springframework.boot:spring-boot-starter-test'
+annotationProcessor 'org.projectlombok:lombok'
+compileOnly 'org.projectlombok:lombok'
+}
